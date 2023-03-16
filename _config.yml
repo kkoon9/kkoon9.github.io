@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: 남궁권
-title: Back-end Web Developer
-email: rndrnjs2003@gmail.com
+title: Library Of Eric
+email: rndrnjs2003@naver.com
 website: https://kkoon9.tistory.com
 
 # Dark Mode (true/false/never)
@@ -31,60 +31,31 @@ linkedin_username: nam-koong-kwon-7a320317a
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+#about_title: About Me (Use this to override about section title)
 about_profile_image: kkoon9.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 도전하는 개발자 남궁권입니다.
+  안녕하세요. 제가 읽었던 책을 소개하는 페이지입니다.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
+  - title: Books
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: 도메인 주도 설계 시작하기
+        caption: eg. May 2022 - June 2022
+        link: http://www.yes24.com/Product/Goods/108431347
         quote: >
-          Short description of the company (optional)
+          이 책을 통해 DDD를 도입하기 위한 전반적인 도메인과 애그리거트, 바운디드 컨텍스트 등을 익힐 수 있었습니다.
+
+          더 나아가 이벤트 스토밍을 팀 내 도입하는 데 큰 도움을 받았습니다.
         description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          ★★★★☆
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    즐겁게 봐주셔서 감사합니다.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+    우리 모두 공부합시다.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
