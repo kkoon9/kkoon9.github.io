@@ -48,7 +48,7 @@ content:
         title: 도메인 주도 설계 시작하기
         caption: eg. May 2022 - June 2022
         link: http://www.yes24.com/Product/Goods/108431347
-        quote: >
+        quote: |
           이 책을 통해 DDD를 도입하기 위한 전반적인 도메인과 애그리거트, 바운디드 컨텍스트 등을 익힐 수 있었습니다.
           \n\n
           더 나아가 이벤트 스토밍을 팀 내 도입하는 데 큰 도움을 받았습니다.
