@@ -57,7 +57,7 @@ content:
       - layout: right
         title: 객체지향의 사실과 오해
         caption: eg. September 2021 - November 2021
-        link: http://www.yes24.com/Product/Goods/18249021
+        link: https://www.youtube.com/watch?v=dJ5C4qRqAgA
         quote: >
           <mark>별점</mark> : ★★★☆☆
         description: | # this will include new lines to allow paragraphs
@@ -67,9 +67,8 @@ content:
 
           중요하니까 반복한다고 느낄수도 있지만 조금은 지루하다고 느낄수도 있습니다.
 
-          우아한객체지향에서 소개한 유튜브 영상도 있으니, 이 영상을 보고 구매하셔도 좋다고 생각합니다.
+          우아한객체지향에서 소개한 유튜브 영상도 있으니, 옆 링크 영상을 보고 구매하시는 걸 추천합니다.
 
-          https://www.youtube.com/watch?v=dJ5C4qRqAgA
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
