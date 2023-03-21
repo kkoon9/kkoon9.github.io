@@ -49,7 +49,7 @@ content:
         caption: eg. May 2022 - June 2022
         link: http://www.yes24.com/Product/Goods/108431347
         quote: >
-          별점 : ★★★★☆
+          <mark>별점</mark> : ★★★★☆
         description: | # this will include new lines to allow paragraphs
           이 책을 통해 DDD를 도입하기 위한 전반적인 도메인과 애그리거트, 바운디드 컨텍스트 등을 익힐 수 있었습니다.
 
