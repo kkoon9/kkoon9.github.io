@@ -54,6 +54,22 @@ content:
           이 책을 통해 DDD를 도입하기 위한 전반적인 도메인과 애그리거트, 바운디드 컨텍스트 등을 익힐 수 있었습니다.
 
           더 나아가 이벤트 스토밍을 팀 내 도입하는 데 큰 도움을 받았습니다.
+      - layout: right
+        title: 객체지향의 사실과 오해
+        caption: eg. September 2021 - November 2021
+        link: http://www.yes24.com/Product/Goods/18249021
+        quote: >
+          <mark>별점</mark> : ★★★☆☆
+        description: | # this will include new lines to allow paragraphs
+          이 책을 통해 역할과 책임, 협력에 대한 내용을 이해할 수 있었습니다.
+
+          읽어보면 아시겠지만, 반복되는 어구가 많습니다.
+
+          중요하니까 반복한다고 느낄수도 있지만 조금은 지루하다고 느낄수도 있습니다.
+
+          우아한객체지향에서 소개한 유튜브 영상도 있으니, 이 영상을 보고 구매하셔도 좋다고 생각합니다.
+
+          https://www.youtube.com/watch?v=dJ5C4qRqAgA
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
