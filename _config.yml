@@ -62,9 +62,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-    즐겁게 봐주셔서 감사합니다.
+    This is where you can write a little more about yourself. You could title this section Interests and include some of your other interests.
 
-    우리 모두 공부합시다.
+    Or you could title it Skills and write a bit more about things that make you more desirable, like leadership or teamwork
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
