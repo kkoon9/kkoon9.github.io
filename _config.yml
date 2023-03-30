@@ -57,6 +57,18 @@ content:
 
           저 역시도 같은 생각을 했으며, 이 책에서 나오는 소프트웨어 정신을 정답처럼 생각은 말되, 본받을 정신만 본받는 자세가 필요하다고 느꼈습니다.        
       - layout: right
+        title: 클린 코드
+        caption: April 2022 - July 2022
+        link: http://www.yes24.com/Product/Goods/11681152
+        quote: >
+          <mark>별점</mark> : ★★★★★
+        description: | 
+          이 책은 클린하지 못한 코드를 점차 클린하게 만들어가는 과정을 보여주고 있습니다. 
+
+          이 책 덕분에 제 코드가 보다 깔끔해졌습니다.
+
+          사내 코드 리뷰 시에도 이 책의 내용을 레퍼런스 삼아 리뷰를 진행함으로써 제 의견의 신빙성을 더해줄 수 있었습니다.
+      - layout: right
         title: 도메인 주도 설계 시작하기
         caption: May 2022 - June 2022
         link: https://kkoon9.tistory.com/366
