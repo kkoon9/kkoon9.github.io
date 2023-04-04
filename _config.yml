@@ -120,6 +120,20 @@ content:
           중요하니까 반복한다고 느낄수도 있지만 조금은 지루하다고 느낄수도 있습니다.
 
           우아한객체지향에서 소개한 유튜브 영상도 있으니, 옆 링크 영상을 보고 구매하시는 걸 추천합니다.
+      - layout: right
+        title: AWS 인프라 구축 가이드
+        caption: December 2020 - February 2021
+        link: http://www.yes24.com/Product/Goods/68799454
+        quote: >
+          <mark>별점</mark> : ★★☆☆☆
+        description: |
+          이 책을 통해 AWS EC2와 로드밸런서 구조를 알게 되었습니다.
+
+          AWS 관련한 기초 지식을 얻기엔 최고의 책이었습니다.
+
+          하지만 별점을 2점밖에 주지 않은 이유는 19년도에 나온 책이기 때문입니다.
+
+          AWS 기술은 계속해서 발전하고 있기 때문에 만약 AWS 관련 책을 사시려면 가장 최근 책을 사시는 걸 추천드리는 마음에 2점을 주었습니다.
 
   - title: A Little More About Me
     layout: text
