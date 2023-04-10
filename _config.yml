@@ -45,6 +45,18 @@ content:
     layout: list
     content:
       - layout: right
+        title: 카프카, 데이터 플랫폼의 최강자
+        caption: April 2023 - April 2023
+        link: http://www.yes24.com/Product/Goods/59789254
+        quote: >
+          <mark>별점</mark> : ★★★★★
+        description: |
+          이 책은 카프카에 대한 이론이 잘 정리된 책입니다.
+
+          면접에서 kafka 질문에 왕창 깨진 뒤, 속성으로 공부 및 정리했는데 제법 대답이 됐던 것 같습니다.
+
+          이론용으로 강추!! 실습용은 제가 안해봐서 모르겠습니다..
+      - layout: right
         title: 소프트웨어 장인
         caption: January 2023 - January 2023
         link: https://kkoon9.tistory.com/493
