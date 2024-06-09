@@ -36,7 +36,7 @@ about_profile_image: kkoon9.jpeg
 about_content: |
   안녕하세요. 제가 읽었던 책과 들었던 인강을 소개하는 페이지입니다.
 
-  저는 3년차 백엔드 개발자입니다.
+  저는 4년차 백엔드 개발자입니다.
 
   개발 서적을 주로 읽었기 때문에 백엔드 개발에 관심이 있으신 분들께 도움이 됐으면 좋겠습니다.
 
@@ -44,6 +44,20 @@ content:
   - title: Books
     layout: list
     content:
+      - layout: right
+        title: 코틀린 동시성 프로그래밍
+        caption: June 2024 - June 2024
+        link: https://m.yes24.com/Goods/Detail/90338766
+        quote: >
+          <mark>별점</mark> : ★★★★☆
+        description: |
+          이 책은 코틀린에서 사용하는 동시성 프로그래밍에 대한 이론이 잘 정리된 책입니다.
+
+          최근 회사에서 코루틴을 사용하고 있어서 이에 대한 학습을 하고자 책을 읽기 시작했습니다.
+
+          실습해 볼 수 있는 코드가 많아서 학습하기에 좋았습니다.
+
+          다만, 이 책은 안드로이드 중심으로 설명하고 있는 책이라 백엔드 개발자 입장으로서는 조금 아쉬웠습니다.
       - layout: right
         title: 카프카, 데이터 플랫폼의 최강자
         caption: April 2023 - April 2023
